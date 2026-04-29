@@ -114,8 +114,7 @@ Vlan60   192.168.100.162 up  up
 
 ## 8. DHCP (Central Server)
 
-📸 Insert screenshot here:
-`![DHCP](your-image-link.png)`
+![DHCP Pools](Screenshots/DHCP-pools.png)
 
 ---
 
@@ -154,8 +153,7 @@ SSH Enabled - version 2.0
 
 ## 12. Wireless (WPA2)
 
-📸 Insert AP screenshot here:
-`![Wireless](your-image-link.png)`
+![Access Point](Screenshots/Access-point.png)
 
 ---
 
