@@ -122,7 +122,7 @@ This project implements a **full-scale enterprise hospital network** with two lo
 ## Verification
 
 All verification outputs (show commands, ping tests, HSRP status, OSPF neighbors, GRE tunnel status) are available here:  
-👉 [View Verification Results](Verification.md)
+👉 [View Verification Results](Verifications.md)
 
 ---
 
