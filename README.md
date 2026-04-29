@@ -137,7 +137,6 @@ All device running configurations (routers, multilayer switches, L2 switches, ac
 
 ### Prerequisites
 - Cisco Packet Tracer 8.2 or higher  
-- Basic understanding of VLANs, OSPF, HSRP, and GRE tunnels  
 
 ### Steps
 1. Clone or download this repository  
@@ -160,12 +159,8 @@ Hospital-Enterprise-Network-HSRP-OSPF-GRE/
 ├── Verification.md
 └── Configs/
     ├── HQ-Router.txt
-    ├── Branch-Router.txt
-    ├── HQ-MLS1.txt
-    ├── HQ-MLS2.txt
-    ├── Branch-MLS1.txt
-    ├── Branch-MLS2.txt
-    └── Server-Switch.txt
+    ├── BR-Router.txt
+    ├── ...
 ```
 
 ---
